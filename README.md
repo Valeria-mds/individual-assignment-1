@@ -27,6 +27,10 @@ To use pyospackage-valerias in your code:
 >>> pyospackage-valerias.hello_world()
 ```
 
+## TestPyPI Link
+https://test.pypi.org/project/pyospackage-valerias/0.1.0/
+
+
 ## Copyright
 
 - Copyright © 2026 valeria siciliano.
